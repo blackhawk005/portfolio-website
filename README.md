@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # html-freebie-triple-p
 Website Template Name: Triple P (Pixel Perfect Portfolio)
 
@@ -7,3 +8,6 @@ Version: 1
 Author: Pixel Perfect Team
 Author URI: http://pixelperfect.mk/
 Keywords: HTML, CSS, Bootstrap, Responsive, Javascript, jQuery, Parallax, Portfolio, CV, Resume
+=======
+# portfolio-website
+>>>>>>> 5ef5112c537f2c462d0175fd259a978209c050c8
