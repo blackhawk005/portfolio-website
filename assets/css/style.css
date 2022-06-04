@@ -480,6 +480,14 @@ html, body {
   text-transform: uppercase;
 }
 
+.hero-content h2 {
+  padding: 0 15px;
+  margin: 30px auto 0;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+
 .hero-content p {
   padding: 0 15px;
   margin: 30px auto 0;
