@@ -54,6 +54,10 @@ html, body {
   text-transform: uppercase;
 }
 
+.profile{
+  margin: 25px
+}
+
 .text-about-me {
   font-family: "Varela", sans-serif;
   font-size:28px;
