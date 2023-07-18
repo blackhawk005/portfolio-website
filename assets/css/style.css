@@ -1048,7 +1048,7 @@ html, body {
 }
 
 .section-services .col-sm-fifth {
-  width: 20%;
+  width: 33.3%;
   display: table;
 }
 
@@ -1161,13 +1161,28 @@ html, body {
   min-height: 390px;
 }
 
+.service-info {
+  height: 330px;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
 .service-info h3 {
   font-size: 28px;
   margin: 20px 0 0;
 }
 
-.service-info p {
+/* .service-info p {
   margin: 30px 0 0;
+} */
+
+.service-info h5 {
+  font-size: 18px;
+  margin: 20px 0 0;
+}
+
+.service-info h6 {
+  font-size: 16px;
 }
 
 .nav-tabs .col-sm-fifth,
@@ -1286,7 +1301,7 @@ html, body {
     font-size: 22px;
   }
   .section-services .service-info p {
-    margin: 15px 0 0;
+    margin: 12px 0 0;
   }
 }
 
